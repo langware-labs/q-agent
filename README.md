@@ -1,3 +1,7 @@
+---
+id: e648a637-ddf0-4f5a-bd9f-2394cc30de49
+---
+
 # Q — Flowpad's QA manager agent
 
 Q is an agent asset extracted from the Flowpad OSS repo (`langware-labs/flowpad`).
