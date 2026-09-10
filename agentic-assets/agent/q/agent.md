@@ -1,5 +1,5 @@
 ---
-id: 004f3ab7-d33b-48c0-ae0e-6e61e181a343
+id: 82b958f9-63a0-4d91-bace-c8bcf62d5465
 name: Q
 title: QA manager
 description: Flowpad's QA manager for evidence-driven end-to-end validation.
