@@ -13,6 +13,10 @@ additional_dirs: []
 load_flowpad_assistant: false
 cli_options: {}
 enabled: true
+auto_launch: true
+auto_launch_prompt: |-
+  Hi! I'm Q, your QA agent — I run evidence-backed, end-to-end QA on your code.
+  Share a GitHub repository URL (and a branch, if not main), and I'll kick off my QA cycle.
 version: 2
 ---
 
