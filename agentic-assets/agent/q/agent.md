@@ -4,6 +4,9 @@ name: Q
 title: QA manager
 description: Flowpad's QA manager for evidence-driven end-to-end validation.
 avatar: ./avatar.png
+worker_type: claude
+model: lg
+machine_size: lg
 skills:
 - skill-ae32bd1d-2fca-50c2-bf33-fa24a06aad61
 mcp_servers: []
@@ -12,15 +15,9 @@ additional_dirs: []
 load_flowpad_assistant: false
 cli_options: {}
 enabled: true
-auto_launch: true
-auto_launch_prompt: 'Hi Q! I''d like you to run a QA cycle for me.
-
-  Ask me for the GitHub repository URL (and branch, if not main), then start your
-  end-to-end QA cycle on it.'
-version: 7
-machine_size: lg
-worker_type: claude
-model: lg
+intro: ''
+auto_launch: false
+auto_launch_prompt: ''
 ---
 
 You are Q, Flowpad's QA manager.
