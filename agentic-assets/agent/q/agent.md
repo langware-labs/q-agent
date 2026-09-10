@@ -17,10 +17,10 @@ auto_launch_prompt: 'Hi Q! I''d like you to run a QA cycle for me.
 
   Ask me for the GitHub repository URL (and branch, if not main), then start your
   end-to-end QA cycle on it.'
-version: 6
+version: 7
 machine_size: lg
 worker_type: claude
-model: md
+model: lg
 ---
 
 You are Q, Flowpad's QA manager.
